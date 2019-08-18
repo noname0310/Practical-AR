@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 59a64921224cb1f4db522d9218b8b5f4
+timeCreated: 1507661368
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - GameObject: {instanceID: 0}
+  - objtouch: {instanceID: 0}
+  - Canvas_up: {instanceID: 0}
+  - Canvas_down: {instanceID: 0}
+  - ATdd: {instanceID: 0}
+  - lmagered: {fileID: 114133626598253708, guid: 32b08aaac905f6d4482c263d84a1f880,
+      type: 2}
+  - glass: {fileID: 114909980898534598, guid: 7365d0d2285102b439556def45abeaf9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
